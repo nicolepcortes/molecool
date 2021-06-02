@@ -5,8 +5,8 @@ molecool
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molecool/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molecool/branch/master)
 
 
-A python package for analyzing and visualizing .xyz files. This repository is currently under development. 
-
+A python package for analyzing and visualizing .xyz files. This repository is currently under development.
+This code was developed at the University of Notre Dame.
 ### Copyright
 
 Copyright (c) 2021, Nicole Cortes
